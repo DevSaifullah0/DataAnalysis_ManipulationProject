@@ -1,0 +1,1 @@
+This project focuses on cleaning, transforming, and analyzing datasets using Python libraries such as Pandas and NumPy. It involves handling missing values, correcting inconsistencies, and applying various data manipulation techniques to prepare datasets for meaningful insights. The goal is to improve data quality and extract valuable patterns to support decision-making.
